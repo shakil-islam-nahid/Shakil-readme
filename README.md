@@ -1,15 +1,20 @@
-### Hi 👋, I'm Shakil  
-An Enthusiastic Backend-focused Web Developer from Bangladesh 🇧🇩  
+### Hi 👋, I'm Shakil
+
+An AI Automation Expert from Bangladesh
 
 ---
 
-## 🧠 About Me  
-- 🌱 I’m currently learning Backend Development  
-- 🐍 Focused on Python, Django, REST API & Databases  
-- 💻 I love building clean and efficient backend systems  
-- 🎯 Goal: Create meaningful projects that help people in real life  
-- 🚀 Always exploring new technologies and improving my skills  
+## 🧠 About Me
+
+* 🤖 Currently building AI Automation & AI Agent workflows
+* ⚡ Focused on n8n, AI Integrations, APIs & Workflow Automation
+* 🧠 Working with RAG systems, Vector Databases & AI Chatbots
+* 🔗 Experienced in connecting apps using APIs, Webhooks & Automation
+* 🚀 Passionate about building smart systems that reduce manual work
+* 💼 Exploring real-world business automation solutions using AI
+* 📚 Continuously learning AI tools, automation architecture & scalable workflows
+* 🎯 Goal: Build intelligent AI systems that solve real-life business problems
 
 ---
 
-### ⭐ Thank you for visiting my profile!  
+### ⭐ Thank you for visiting my profile!
